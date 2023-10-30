@@ -1,0 +1,4 @@
+1. p++: vai incrementar o valor de p apos a operacao (como ponteiro, aumenta a posicao, se p aponta, por exemplo, para array[0], p++ vai fazer apontar para array[1]
+(*p++): incrementa o valor apontado por p apos a operacao.
+*(p++): primeiro eh acessado o valor apontado por p, depois p eh incrementado.
+b. *(p+10) quer dizer que voce ta tentando acessar o valor apontado por p 10 posicoes de memoria a frente de p.

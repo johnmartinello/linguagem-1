@@ -1,0 +1,1 @@
+o programa imprime o valor do contador, o valor salvo na posicao x do vetor, o endereco do valor da posicao x no vetor, e o endereco do ponteiro.

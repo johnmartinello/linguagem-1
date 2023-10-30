@@ -1,0 +1,1 @@
+imprime o valor apontado pelo ponteiro e incrementa o ponteiro apos
